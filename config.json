@@ -1,0 +1,5 @@
+{
+    "url":"ldap://ldap.forumsys.com:389",
+    "upn" : "cn=read-only-admin,dc=example,dc=com",
+    "password" : "password"
+}
